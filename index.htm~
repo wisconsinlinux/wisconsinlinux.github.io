@@ -1,61 +1,37 @@
 <!DOCTYPE html>
-<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
-<head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<!--[if lt IE 9]>
-    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-<title>Wisconsin Linux Users</title>
-<style>img{float:right}</style>
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-168979-2']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-</head>
-
-<body>
-<a href="https://github.com/wisconsinlinux/wisconsinlinux.org"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_left_green_007200.png" alt="Fork me on GitHub"></a>
-<img src="img/Wisconsinlinux_logo_v1.0_sized.png" alt="Tux penguin sitting on a Wisconsin map"/>
-
-<div style="margin-left: 10%;">
-
-<h1>Wisconsin Linux Users</h1>
-
-<p>Connect with other GNU/Linux enthusiasts in and around Wisconsin!</p>
-
-<p>Want to add something but not git-enabled? Let me know:
-<a href="https://twitter.com/intent/tweet?screen_name=mikeputnam&amp;text=For%20wis-linux%3A" class="twitter-mention-button" data-related="mikeputnam">Tweet at @mikeputnam</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-</p>
-
-<p>Last Updated: 2013-12-08</p>
-
-<h2>Wisconsin Linux User Groups (LUG's)</h2>
-<ul>
-<li> Eau Claire Linux Users Group <a href="http://eclug.homelinux.org">http://eclug.homelinux.org</a>
-</li><li> University of Eau Claire - Linux Users Group <a href="http://www.uwec.edu/lug/">http://www.uwec.edu/lug/</a>
-</li><li> Fond du Lac Linux Users Group <a href="http://www.fdllug.org/">http://www.fdllug.org/</a>
-</li><li> Green Bay Linux Users Group <a href="https://groups.google.com/forum/?fromgroups#!forum/green-bay-linux-users-group">https://groups.google.com/forum/?fromgroups#!forum/green-bay-linux-users-group</a>
-</li><li> Kenosha Area Linux Users Group <a href="http://www.kenoshalinux.org/">http://www.kenoshalinux.org/</a>
-</li><li> La Crosse Linux Users Group <a href="http://groups.google.com/group/lacrosselug">http://groups.google.com/group/lacrosselug</a>
-</li><li> Madison Linux Users Group <a href="http://www.madisonlinux.org/">http://www.madisonlinux.org/</a>
-</li><li> Milwaukee Linux Users Group <a href="http://www.milwaukeelug.org/">http://www.milwaukeelug.org/</a>
-</li><li> North East Wisconsin Linux Users Group <a href="http://www.newlug.org/">http://www.newlug.org/</a>
-</li><li> Walworth County LUG <a href="http://walworthcountylug.wordpress.com">http://walworthcountylug.wordpress.com</a>
-</li><li> Wisconsin LoCo Team is a group of folks that <3 Ubuntu. <a href="https://wiki.ubuntu.com/WisconsinTeam">https://wiki.ubuntu.com/WisconsinTeam</a>
-</li>
-</ul>
+<html lang="en-US">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<title>Wisconsin Linux Users</title>
+	</head>
+	<body>
+		<a href="https://github.com/wisconsinlinux/wisconsinlinux.org">
+			<img style="position:absolute; top:0; left:0; border:0;" src="forkme.png" alt="Fork me on GitHub" />
+		</a>
+		<img src="img/Wisconsinlinux_logo_v1.0_sized.png" alt="Tux penguin sitting on a Wisconsin map"/>
+		<div style="margin-left: 10%;">
+		<h1>Wisconsin Linux Users</h1>
+		<p>Connect with other GNU/Linux enthusiasts in and around Wisconsin!</p>
+		<p>Want to add something but not git-enabled? Let me know:
+			<a href="https://twitter.com/intent/tweet?screen_name=mikeputnam&amp;text=For%20wis-linux%3A" class="twitter-mention-button" data-related="mikeputnam">Tweet at @mikeputnam</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		</p>
+		<p>Last Updated: Tuesday, November 3, 2015</p>
+		<h2>Wisconsin Linux User Groups (LUG's)</h2>
+			<ul>
+				<li>Eau Claire Linux Users Group <a href="http://eclug.homelinux.org">http://eclug.homelinux.org</a></li>
+				<li>University of Eau Claire - Linux Users Group <a href="http://www.uwec.edu/lug/">http://www.uwec.edu/lug/</a></li>
+				<li>Fond du Lac Linux Users Group <a href="http://www.fdllug.org/">http://www.fdllug.org/</a></li>
+				<li>Green Bay Linux Users Group <a href="https://groups.google.com/forum/?fromgroups#!forum/green-bay-linux-users-group">https://groups.google.com/forum/?fromgroups#!forum/green-bay-linux-users-group</a></li>
+				<li>Kenosha Area Linux Users Group <a href="http://www.kenoshalinux.org/">http://www.kenoshalinux.org/</a></li>
+				<li>La Crosse Linux Users Group <a href="http://groups.google.com/group/lacrosselug">http://groups.google.com/group/lacrosselug</a></li>
+				<li>Madison Linux Users Group <a href="http://www.madisonlinux.org/">http://www.madisonlinux.org/</a></li>
+				<li>Milwaukee Linux Users Group <a href="http://www.milwaukeelug.org/">http://www.milwaukeelug.org/</a></li>
+				<li>North East Wisconsin Linux Users Group <a href="http://www.newlug.org/">http://www.newlug.org/</a></li>
+				<li>Walworth County LUG <a href="http://walworthcountylug.wordpress.com">http://walworthcountylug.wordpress.com</a></li>
+				<li>Wisconsin LoCo Team is a group of folks that <3 Ubuntu. <a href="https://wiki.ubuntu.com/WisconsinTeam">https://wiki.ubuntu.com/WisconsinTeam</a></li>
+			</ul>
 
 <h2>Join the Wisconsin Linux Users Group - Google+ Community</h2>
 <p>
